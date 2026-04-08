@@ -1,0 +1,18 @@
+{
+  "cookies": {
+    "SID": "g.a0008ghdpM0p6-BlDKlGO9GywirrDamQkhlp_m3JMwD92Eg4rlFC34sAimE4IO4RqDPWk-ee_AACgYKAc0SARASFQHGX2MiVmFId2eOgC9jdNWLKPVNEBoVAUF8yKpf5y5LJey5GkeKTmgkSSbH0076",
+    "__Secure-1PSID": "g.a0008ghdpM0p6-BlDKlGO9GywirrDamQkhlp_m3JMwD92Eg4rlFCmMF5sq_UmnOiEGFWQ0DOtwACgYKAQ8SARASFQHGX2Miz4KwoKddO9iEVlOWi3kXZRoVAUF8yKr_Agrn8aHvwO-7OHS3bcox0076",
+    "__Secure-3PSID": "g.a0008ghdpM0p6-BlDKlGO9GywirrDamQkhlp_m3JMwD92Eg4rlFCjjkX6YvIbxV7yRZ8GPFlrQACgYKAV0SARASFQHGX2Mi-DkcB_fcMgCMblZ0AHtJ9RoVAUF8yKp6EhjUujk_DehbE5UmemNr0076",
+    "HSID": "Aq52zgDD33i94u6UU",
+    "SSID": "Amqug8WNlr2DkamTM",
+    "APISID": "BOIbBiHo-6T2AQAz/AhxG6Le2U_TEHK5TV",
+    "SAPISID": "0oLqVpVm7ghOYT3O/Ad9-vmPAbA-mtJ72T",
+    "OSID": "g.a0008ghdpOCDCF8X-r1vxHM8pw0dP7lzSunLMs6zjne-z3pek-W-sRMmrtx-6qBvLtVo9Z6kaAACgYKAc8SARASFQHGX2Mi7CMD_T8iPQcTMNMIAooxCxoVAUF8yKq4TNQ8CK8jN0sW4tv2-0vx0076",
+    "SIDCC": "AKEyXzUAuOjzht82-Bqysk1B2GMrsrOevPqUI_2wJuO8G-3o3cCEevBK1KcKRHCntveK6J8M",
+    "__Secure-1PSIDCC": "AKEyXzXsiPlXNxXF5o-kMYx0Ey0NzOPbFEUv-X6H6dY8j8dguSQ0pD3120M_cYL_vcSBiQrgwA",
+    "__Secure-3PSIDCC": "AKEyXzXiVM54a4vukIFscLct9WwBT85boWq1Zn2rTlk9iNY0ywY4_ar0u2ZdY5vwo7dLsBV-"
+  },
+  "csrf_token": "ALkAtnIdMGsgkDsS2MAgUG_N1ZpP:1775625548108",
+  "session_id": "2116459642299185901",
+  "build_label": "boq_labs-tailwind-frontend_20260406.14_p0"
+}

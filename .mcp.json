@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "notebooklm": {
+      "command": "C:\Users\Windows\.local\bin\notebooklm-mcp.exe"
+    }
+  }
+}

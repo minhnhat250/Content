@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(/.claude/skills/youtube-top-videos/**)",
+      "Bash(Get-ChildItem -Path \"D:\\\\social\\\\.claude\\\\skills\" -Directory)",
+      "Bash(Select-Object Name)",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Bash(nlm --version)",
+      "Bash(pip --version)",
+      "Bash(uv --version)",
+      "Bash(pip install:*)",
+      "Bash(python -m pip install --upgrade pip)",
+      "Bash(uv tool:*)",
+      "Bash(\"C:\\\\Users\\\\Windows\\\\.local\\\\bin\\\\nlm.exe\" setup:*)",
+      "Bash(where.exe git.exe)",
+      "Bash(git --version)",
+      "Read(//d/Other folder/Git/bin/**)",
+      "Read(//d/Other folder/Git/usr/bin/**)",
+      "Bash(CLAUDE_CODE_GIT_BASH_PATH=\"D:\\\\Other folder\\\\Git\\\\bin\\\\bash.exe\" \"C:\\\\Users\\\\Windows\\\\.local\\\\bin\\\\nlm.exe\" setup add claude-code)",
+      "Bash(\"C:\\\\Users\\\\Windows\\\\.local\\\\bin\\\\notebooklm-mcp.exe\" --help)",
+      "Read(//c/Users/Windows/.claude/**)",
+      "Bash(where.exe find.exe)",
+      "mcp__notebooklm-mcp__notebook_list",
+      "Bash(tasklist)",
+      "Bash(export PATH=\"$PATH:/c/Users/Windows/.local/bin\")",
+      "Bash(nlm login:*)",
+      "Read(//c/Users/Windows/AppData/Local/Google/Chrome/User Data/**)",
+      "Bash(where.exe python:*)",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Users/Windows/AppData/Local/Programs/Python/Python311//**)",
+      "mcp__notebooklm-mcp__save_auth_tokens"
+    ],
+    "additionalDirectories": [
+      "d:\\social"
+    ]
+  },
+  "enableAllProjectMcpServers": true
+}
