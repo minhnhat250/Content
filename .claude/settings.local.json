@@ -1,7 +1,33 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "Bash(curl -s -o /dev/null -w '%{http_code} %{url_effective}\\\\n' https://www.statisticshowto.com/probability-and-statistics/correlation-analysis/ https://www.statisticshowto.com/probability-and-statistics/correlation-analysi https://www.geeksforgeeks.org/distance-metrics-for-machine-learning/)",
+      "Bash(curl -s -o /dev/null -w '%{http_code} %{url_effective}\\\\n' https://pytorch.org/get-started/locally/ https://numpy.org/devdocs/user/quickstart.html https://numpy.org/devdocs/user/basics.broadcasting.html https://pandas.pydata.org/docs/user_guide/io.html https://pandas.pydata.org/docs/user_guide/missing_data.html https://matplotlib.org/stable/tutorials/introductory/pyplot.html https://seaborn.pydata.org/tutorial.html)",
+      "Bash(curl -s -o /dev/null -w '%{http_code} %{url_effective}\\\\n' https://greenteapress.com/thinkstats2/html/index.html 'https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr' 'https://www.youtube.com/watch?v=zbP4xBviG0U' 'https://www.youtube.com/watch?v=spUNpyFURBY')",
+      "Bash(curl -s -o /dev/null -w '%{http_code} %{url_effective}\\\\n' https://www.machinelearningplus.com/nlp/cosine-similarity/ https://learnopencv.com/numpy-practices-for-machine-learning/)",
+      "Bash(curl -s -o /dev/null -w '%{http_code} %{url_effective}\\\\n' https://www.khanacademy.org/math/statistics-probability https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-composite/ab-differentiation-chain-rule-multiple/v/chain-rule-introduction https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivatives/v/partial-derivatives-introduction https://www.khanacademy.org/math/statistics-probability/designing-studies/sampling-and-survey-experiments/a/highlighting-the-relationship-between-a-statistical-variable-and-an-independent-variable)",
+      "Edit(~/.claude/skills/ai-workshop-content/**)",
+      "Bash(dir /s /b \"C:\\\\Users\\\\Windows\\\\.claude\\\\skills\\\\ai-workshop-content\")",
+      "Bash(curl -s -o /dev/null -w '%{http_code} %{url_effective}\\\\n' 'https://www.youtube.com/watch?v=PFDu9oVAE-g' 'https://www.youtube.com/watch?v=3Z0JbT0LC8Y' 'https://www.youtube.com/watch?v=zbP4xBviG0U' 'https://www.youtube.com/watch?v=spUNpyFURBY' 'https://www.youtube.com/watch?v=IIvmXVoGj5A' 'https://www.youtube.com/watch?v=q32-o2N4eA0' 'https://www.youtube.com/watch?v=2AQK3vFjEX8')",
+      "Bash(curl -s -o /dev/null -w '%{http_code} %{url_effective}\\\\n' 'https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr' 'https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab' 'https://www.youtube.com/watch?v=YG15m2VwSjA' 'https://www.youtube.com/watch?v=AXqhWeueTTA')",
+      "Edit(/.claude/skills/saas-ai-cost-calculator/**)",
+      "WebFetch(domain:news.ycombinator.com)",
+      "WebFetch(domain:venturebeat.com)",
+      "mcp__notebooklm-mcp__research_start",
+      "mcp__notebooklm-mcp__notebook_create",
+      "mcp__notebooklm-mcp__research_status",
+      "mcp__notebooklm-mcp__research_import",
+      "Bash(cp \"d:/social/.claude/skills/saas-ai-cost-calculator/SKILL.md\" ~/.claude/skills/saas-ai-cost-calculator/)",
+      "Bash(cp \"d:/social/.claude/skills/saas-ai-cost-calculator/workflows/phan-tich-day-du.md\" ~/.claude/skills/saas-ai-cost-calculator/workflows/)",
+      "Bash(Get-ChildItem -Path \"d:\\\\social\\\\content\\\\facebook\\\\ai-token-learning\\\\workshop-ai-overview-2025\" -Recurse)",
+      "Bash(Select-Object FullName, Length)",
+      "Bash(Format-Table -AutoSize)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Windows\\.claude\\skills\\ai-workshop-content",
+      "d:\\social\\.claude\\skills\\saas-ai-cost-calculator",
+      "d:\\social\\content\\facebook\\ai-token-learning"
     ]
   }
 }

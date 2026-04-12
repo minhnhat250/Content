@@ -1,0 +1,30 @@
+{
+  "skill_name": "notion-content-pusher",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Đẩy file đang mở trong IDE vào Notion workspace Notion Cá Nhân, tạo page mới",
+      "expected_output": "Yêu cầu xác nhận nội dung file → chọn workspace → list pages → preview → hỏi chọn đích đến → tạo page → báo URL"
+    },
+    {
+      "id": 2,
+      "prompt": "Tôi có 2 đoạn text dưới đây. Đẩy đoạn thứ 2 vào Notion Công Việc, thêm vào page 'Nhật ký tuần 15'",
+      "expected_output": "Hỏi xác nhận đoạn text thứ 2 → chọn workspace Công Việc → list pages tìm 'Nhật ký tuần 15' → preview nội dung → hỏi xác nhận → append block → báo URL"
+    },
+    {
+      "id": 3,
+      "prompt": "Tôi chưa có token Notion nào, hướng dẫn tôi thêm workspace mới",
+      "expected_output": "Chuyển sang workflows/cai-dat.md → hướng dẫn lấy token từ notion.so/my-integrations → nhận token → verify → lưu với tên → hướng dẫn chia sẻ page → test kết nối"
+    },
+    {
+      "id": 4,
+      "prompt": "Tôi muốn đổi sang workspace Notion Dự Án X, rồi đẩy đoạn này vào",
+      "expected_output": "Chuyển sang workflows/chon-tai-khoan.md → hiển thị danh sách workspace → chọn 'Notion Dự Án X' → verify → tiếp tục workflow đẩy nội dung"
+    },
+    {
+      "id": 5,
+      "prompt": "Đẩy nội dung này vào database 'Tasks' trong workspace hiện tại",
+      "expected_output": "List databases → tìm 'Tasks' → preview nội dung → hỏi tạo row mới → map fields → tạo page trong database → báo URL"
+    }
+  ]
+}

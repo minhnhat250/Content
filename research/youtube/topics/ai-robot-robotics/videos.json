@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "query": "AI robot robotics",
+    "date_filter": "month",
+    "min_views": 1000000,
+    "sort_by": "views",
+    "filters": {
+      "min_subscribers": 500000,
+      "min_views": 1000000,
+      "published_after": "2026-04-01T00:00:00Z"
+    },
+    "searched_at": "2026-04-09T03:56:42.750846+00:00",
+    "total_results": 1,
+    "notebook_id": "aacb71f3-f0d7-469f-b6bd-1d560ebe6df1"
+  },
+  "videos": [
+    {
+      "rank": 1,
+      "title": "Shawn Ryan Tests a Real Humanoid Robot",
+      "video_id": "HWq9cFhTvvQ",
+      "url": "https://www.youtube.com/watch?v=HWq9cFhTvvQ",
+      "channel": "Shawn Ryan Show",
+      "channel_id": "UCkoujZQZatbqy4KGcgjpVxQ",
+      "subscriber_count": 6090000,
+      "view_count": 1251726,
+      "like_count": 42920,
+      "comment_count": 6710,
+      "breakout_ratio": 0.2,
+      "published_at": "2026-04-01T20:30:04Z",
+      "duration": "PT8M48S",
+      "thumbnail_url": "https://i.ytimg.com/vi/HWq9cFhTvvQ/maxresdefault.jpg",
+      "tags": [
+        "vigilance elite",
+        "shawn ryan",
+        "shawn ryan show",
+        "the shawn ryan show",
+        "shawn ryan podcast",
+        "podcast",
+        "srs",
+        "podcast show"
+      ],
+      "channel_subscribers": 6090000
+    }
+  ]
+}

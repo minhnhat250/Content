@@ -1,0 +1,15 @@
+{
+  "skill_name": "ui-designer",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "sửa giao diện trang dashboard này cho đẹp hơn, file Dashboard.jsx",
+      "expected_output": "Chỉ sửa UI: className, style, spacing, colors, hover states. KHÔNG sửa: useState, useEffect, API calls, business logic, function logic. Báo cáo: File đã sửa, tổng thay đổi, checklist logic không đổi."
+    },
+    {
+      "id": 2,
+      "prompt": "tạo trang login đẹp bằng React + Tailwind, responsive, có form email/password với nút login, style modern dark mode",
+      "expected_output": "Component React với Tailwind, responsive, dark mode, form UI (email/password/login button), hover/focus states, không có logic xử lý login, không có API call."
+    }
+  ]
+}

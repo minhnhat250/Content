@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "query": "AI 2026",
+    "date_filter": "month",
+    "min_views": 1000000,
+    "sort_by": "views",
+    "filters": {
+      "min_subscribers": 500000,
+      "min_views": 1000000,
+      "published_after": "2026-04-01T00:00:00Z"
+    },
+    "searched_at": "2026-04-09T03:51:24.375044+00:00",
+    "total_results": 2,
+    "notebook_id": "aacb71f3-f0d7-469f-b6bd-1d560ebe6df1"
+  },
+  "videos": [
+    {
+      "rank": 1,
+      "title": "Eta Amaderi Golpo | Episode 42 | M M Kamal Raz | Basar | Payel | Sajjad | Sunerah | New Series 2026",
+      "video_id": "Oo6yOyBhPN4",
+      "url": "https://www.youtube.com/watch?v=Oo6yOyBhPN4",
+      "channel": "CINEMAWALA",
+      "channel_id": "UCzUpRdOwrILcg6c6dKxPr0g",
+      "subscriber_count": 6500000,
+      "view_count": 13729793,
+      "like_count": 251549,
+      "comment_count": 11237,
+      "breakout_ratio": 2.1,
+      "published_at": "2026-04-02T06:00:22Z",
+      "duration": "PT25M4S",
+      "thumbnail_url": "https://i.ytimg.com/vi/Oo6yOyBhPN4/maxresdefault.jpg",
+      "tags": [
+        "eta amaderi golpo",
+        "eta amader golpo natok",
+        "eta amaderi golpo series",
+        "new drama series",
+        "web series",
+        "khairul bashar natok",
+        "khairul bashar new natok",
+        "khairul bashar",
+        "keya payel new natok",
+        "keya payel natok"
+      ],
+      "channel_subscribers": 6500000
+    },
+    {
+      "rank": 2,
+      "title": "KEMASUKKAN TALENT TERBARU AI TEAM 2026 !!! TAK TERSANGKA…",
+      "video_id": "LyEVeqd0kD4",
+      "url": "https://www.youtube.com/watch?v=LyEVeqd0kD4",
+      "channel": "Alieff Irfan",
+      "channel_id": "UCKCK2lumiYpKfD1aEj4W5vg",
+      "subscriber_count": 6450000,
+      "view_count": 1027559,
+      "like_count": 45000,
+      "comment_count": 3740,
+      "breakout_ratio": 0.2,
+      "published_at": "2026-04-07T13:00:07Z",
+      "duration": "PT40M53S",
+      "thumbnail_url": "https://i.ytimg.com/vi/LyEVeqd0kD4/maxresdefault.jpg",
+      "tags": [],
+      "channel_subscribers": 6450000
+    }
+  ]
+}

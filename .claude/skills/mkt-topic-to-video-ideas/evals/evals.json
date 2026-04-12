@@ -1,0 +1,15 @@
+{
+  "skill_name": "mkt-topic-to-video-ideas",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Research chủ đề Claude AI rồi đề xuất video ngắn cho tiktok",
+      "expected_output": "Phase 1: Chạy research script với keyword 'Claude AI', max 18 videos, present results table. Phase 2: Tạo notebook mới, thêm tối đa 18 video URL, phân tích 4 queries (overview, patterns, insights, gaps). Phase 3: Đề xuất 5-8 ý tưởng video ngắn, mỗi ý gồm: tiêu đề, hook, nội dung, target audience, hashtags, độ khó, loại visual. Files: videos.json, analysis.md, video-ideas.md trong research/youtube/topics/[slug]/"
+    },
+    {
+      "id": 2,
+      "prompt": "tìm video về vibe coding trên 50K views, rồi gợi ý content reel cho facebook",
+      "expected_output": "Phase 1: Chạy research script với keyword 'vibe coding', max 18 videos, min-views 50000, present results. Phase 2: notebook_create → source_add tất cả video URLs (wait=True) → notebook_query phân tích insights. Phase 3: Đề xuất 5-8 ý tưởng video ngắn cho Facebook Reel, mỗi ý gồm: tiêu đề (dưới 60 ký tự), hook (dưới 15 giây), nội dung chính (1-2 câu), target audience (1-2 dòng), hashtags gợi ý (3-5 tags), CTA, độ khó sản xuất, loại visual."
+    }
+  ]
+}

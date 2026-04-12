@@ -1,0 +1,20 @@
+{
+  "skill_name": "mkt-facebook-content",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Viết cho tôi một bài facebook kiểu storytelling về hành trình khởi nghiệp của một founder Việt Nam trong lĩnh vực AI. Bài phải có: hook gây dừng scroll, chi tiết nhỏ thật, trigger cảm xúc mạnh, và kết thúc bằng 1 insight có giá trị. Độ dài khoảng 300 từ. Gợi ý hashtags và thời điểm đăng.",
+      "expected_output": "Bài viết đầy đủ: có hook dòng 1 với khoảnh khắc cụ thể, phần giữa có chi tiết nhỏ (số cụ thể, thời gian cụ thể), có trigger cảm xúc (sợ mất, tự hào, đồng cảm), có dòng quoteable, kết bằng insight hoặc CTA. Phần gợi ý có 3-5 hashtags, khung giờ đăng, gợi ý hình ảnh. Độ dài ~300 từ."
+    },
+    {
+      "id": 2,
+      "prompt": "Viết một bài facebook kiểu kỹ thuật hướng dẫn cách dùng Make.com (automation tool) để tạo webhook workflow tự động. Bài phải: bắt đầu bằng vấn đề thật, giải thích logic rõ ràng, có 3-5 bước cụ thể, giữ thuật ngữ tiếng Anh (webhook, trigger, scenario), có số liệu proof, kết bằng CTA. Độ dài khoảng 400 từ.",
+      "expected_output": "Bài viết đầy đủ: hook bằng vấn đề thật, giải thích WHAT/HOW/WHY rõ ràng, 3-5 bước cụ thể với tên bước, thuật ngữ Anh giữ nguyên và có giải thích, có proof (số liệu / kết quả cụ thể), kết bằng CTA rõ ràng. Phần gợi ý có hashtags, thời điểm đăng, gợi ý screenshot."
+    },
+    {
+      "id": 3,
+      "prompt": "So sánh 2 tools: Claude AI vs ChatGPT. Viết bài facebook kỹ thuật so sánh, mỗi tool phân tích 3 điểm mạnh, 1 điểm yếu, và khi nào nên dùng cái nào. Giọng văn chuyên gia nhưng thân mật. Độ dài 350 từ.",
+      "expected_output": "Bài viết đầy đủ: hook bằng 1 insight bất ngờ, so sánh rõ ràng theo cấu trúc (giống nhau / khác nhau / giá / độ khó / phù hợp với ai), không nói xấu tool nào, kết bằng hướng dẫn chọn tool. Thuật ngữ Anh giữ nguyên. Có CTA."
+    }
+  ]
+}

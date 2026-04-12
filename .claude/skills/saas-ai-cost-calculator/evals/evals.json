@@ -1,0 +1,30 @@
+{
+  "skill_name": "saas-ai-cost-calculator",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Tính chi phí sản phẩm AI của tôi: app viết email tự động, dùng GPT-4o mini, 100 user, mỗi user gọi 30 lần/tháng, mỗi lần 2000 token. Chi phí server $20/tháng. Tôi là sinh viên, bán gói 49K/tháng có được không?",
+      "expected_output": "Phân tích đầy đủ: chi phí API/tháng + chi phí server/user + margin lợi nhuận + nhận xét giá bán 49K có phù hợp cho sinh viên không + các gói linh hoạt (tuần/tháng/quý) + đề xuất giá sàn"
+    },
+    {
+      "id": 2,
+      "prompt": "Tôi muốn xây dựng chatbot AI hỗ trợ sinh viên học tiếng Anh. Dùng Claude 3.5 Sonnet, 50 user trả phí, 200 user dùng thử. Mỗi user dùng 10 lần/tuần, 1500 token/lần. Server $12/tháng. Tính chi phí và gợi ý giá bán.",
+      "expected_output": "Phân tích chi phí cho 2 nhóm user + chi phí server + giá bán hợp lý + mô hình freemium rõ ràng + tỉ lệ conversion ước tính + roadmap tăng giá theo độ phát triển"
+    },
+    {
+      "id": 3,
+      "prompt": "Xem giúp tôi gói 99K/tháng của một sản phẩm AI viết content có hợp lý không. Sản phẩm dùng Gemini 1.5 Flash miễn phí, server $6/tháng. Họ nói lợi nhuận 60%.",
+      "expected_output": "Phân tích chi phí thực tế (API = 0 với Gemini Flash free) + chi phí server/user + margin thực tế + nhận xét 60% profit margin có hợp lý không + khuyến nghị giá + cảnh báo mở rộng"
+    },
+    {
+      "id": 4,
+      "prompt": "So sánh chi phí nếu dùng GPT-4o mini vs Claude 3.5 Haiku vs Gemini 1.5 Flash cho app tóm tắt tài liệu. 200 user, mỗi user 15 lần/tháng, 3000 token/lần. Nên chọn provider nào?",
+      "expected_output": "Bảng so sánh chi phí 3 provider + khuyến nghị chọn provider theo giai đoạn + mẹo tối ưu chi phí (cache, batch request, model routing)"
+    },
+    {
+      "id": 5,
+      "prompt": "Tôi có startup AI với 500 user trả phí, dùng GPT-4o mini, server $50/tháng. Tính chi phí, margin, và gợi ý mức giá bán.",
+      "expected_output": "Chi phí chi tiết + margin theo từng gói (29K/49K/99K/199K) + phân tích unit economics + cảnh báo chi phí tăng trưởng + roadmap pricing"
+    }
+  ]
+}

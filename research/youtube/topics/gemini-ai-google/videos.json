@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "query": "Gemini AI Google",
+    "date_filter": "month",
+    "min_views": 1000000,
+    "sort_by": "views",
+    "filters": {
+      "min_subscribers": 500000,
+      "min_views": 1000000,
+      "published_after": "2026-04-01T00:00:00Z"
+    },
+    "searched_at": "2026-04-09T03:56:36.773628+00:00",
+    "total_results": 1,
+    "notebook_id": "aacb71f3-f0d7-469f-b6bd-1d560ebe6df1"
+  },
+  "videos": [
+    {
+      "rank": 1,
+      "title": "When you start playing games too much",
+      "video_id": "hP4KByUi_uw",
+      "url": "https://www.youtube.com/watch?v=hP4KByUi_uw",
+      "channel": "Ujjwal Shorts",
+      "channel_id": "UCUA81A-VZAZXYALpOScwFOQ",
+      "subscriber_count": 7210000,
+      "view_count": 1334403,
+      "like_count": 84195,
+      "comment_count": 1208,
+      "breakout_ratio": 0.2,
+      "published_at": "2026-04-02T06:46:38Z",
+      "duration": "PT1M39S",
+      "thumbnail_url": "https://i.ytimg.com/vi/hP4KByUi_uw/maxresdefault.jpg",
+      "tags": [],
+      "channel_subscribers": 7210000
+    }
+  ]
+}
