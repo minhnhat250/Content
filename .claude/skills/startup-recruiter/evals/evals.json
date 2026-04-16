@@ -1,0 +1,25 @@
+{
+  "skill_name": "startup-recruiter",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Viết JD tuyển Frontend dev cho dự án app học AI của mình. Mình là sv năm 2 CNTT, dự án đã có MVP, cần tuyển 1 bạn biết React, thời gian 5-10h/tuần, có thể chia 10% equity.",
+      "expected_output": "JD có: tiêu đề với emoji, giới thiệu dự án 2-3 câu, vai trò cụ thể, yêu cầu phù hợp sv năm 2-3 (React), quyền lợi THẬT (10% equity + portfolio + học kiến thức), ⚠️ thành thật (chưa có lương), cách apply rõ, deadline."
+    },
+    {
+      "id": 2,
+      "prompt": "Mình đang làm dự án QuizAI — app học AI bằng quiz, đã alpha test. Cần viết email outreach gửi cho Minh, sv năm 3 hay đăng bài về React. equity 10% cho core team.",
+      "expected_output": "Email outreach: subject rõ '[QuizAI] — cần bạn giỏi React', chào Minh, nói đúng thứ họ quan tâm (project React), quyền lợi cụ thể (10% equity, portfolio, học AI), CTA nhẹ nhàng ('có quan tâm không?'), không spam language."
+    },
+    {
+      "id": 3,
+      "prompt": "Tạo template quyền lợi cho dự án học tập, không có equity, chỉ có học kiến thức và portfolio",
+      "expected_output": "Template 3 (học tập): quyền lợi gồm học kiến thức thực tế, portfolio thật, letter of recommendation, thời gian linh hoạt, thử trước 1 tháng. ⚠️ Thành thật: không lương, không equity, cần học nhanh."
+    },
+    {
+      "id": 4,
+      "prompt": "JD tuyển content writer cho dự án workshop AI. Tone phải thân thiện như người bạn rủ nhau, không phải sếp tuyển nhân viên. Quyền lợi có gì?",
+      "expected_output": "JD có tone như sv gọi sv: không dùng 'We are looking for', không 'Competitive salary', không 'Join our dynamic team'. Thay vào đó: 'Mình đang làm dự án X, cần tìm thêm người...' + quyền lợi cụ thể như học kiến thức AI thực tế, portfolio thật, flexible time."
+    }
+  ]
+}
